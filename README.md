@@ -14,6 +14,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ## Backend
 ### `shotgun --port=9292`
 Launches the rack backend allowing you to fetch from an SQLite3 database.
+**Note: you must cd into the backend folder in order to initiliaze the database**
 
 ## Application
 This application allows for a user to build a clientele while also keeping track of orders and information about each order. This is made possible by a one to many relationship betweeen a client and their orders using Active Record. Thanks to the response flow of my Rack backend and React frontend, a user is able to utilize 3 of the 4 CRUD abilities to GET, POST, and DELETE information from the database.
