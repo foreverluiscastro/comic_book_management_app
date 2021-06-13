@@ -1,5 +1,25 @@
 .App {
   text-align: center;
+  background-color:aliceblue;  
+  margin: auto;
+  padding: auto;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.form {
+  text-align: center;
+  padding: 1rem;
+  width: 25rem;
+  margin: auto;
+}
+
+.navbar {
+  border-bottom: 2px solid black;
+  padding-bottom: 10px;
+  margin-bottom: 12px;
+  background-color:aqua;
+  font-size: 30px;
 }
 
 .App-logo {
