@@ -1,10 +1,8 @@
-# Getting Started with Create React App
+# My Comic Book Management App
+My name is Luis Castro and this is my Comic Book Management App.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
+## Repository Information
+This project is made up of two repositories. [One](https://github.com/foreverluiscastro/comic_book_management_app) runs a React frontend and the [other](https://github.com/foreverluiscastro/phase-3-ruby-group-project-rack-react) runs a Rack backend.
 
 ### `npm start`
 
